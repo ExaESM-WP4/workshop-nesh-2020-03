@@ -1,0 +1,3 @@
+[submodule "jupyter_on_HPC_setup_guide"]
+	path = jupyter_on_HPC_setup_guide
+	url = https://git.geomar.de/python/jupyter_on_HPC_setup_guide.git
